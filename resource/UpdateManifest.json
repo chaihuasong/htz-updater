@@ -7,7 +7,7 @@
   "apkURL":"https://raw.githubusercontent.com/chaihuasong/htz-updater/master/resource/app/app_new.apk",
   "hash":"3a3266a273163eb0e0822f3766bb8440",
   "patchInfo":{
-    "v100":{
+    "v1":{
       "patchURL":"https://raw.githubusercontent.com/chaihuasong/htz-updater/master/resource/app/v1/diff.patch",
       "tip":"test2",
       "hash":"3a3266a273163eb0e0822f3766bb8440",
