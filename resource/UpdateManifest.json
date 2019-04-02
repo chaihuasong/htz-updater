@@ -1,0 +1,17 @@
+{
+  "minVersion":"1",
+  "minAllowPatchVersion":"1",
+  "newVersion":"2",
+  "tip":"测试更新 :)",
+  "size":2673018,
+  "apkURL":"https://raw.githubusercontent.com/chaihuasong/htz-updater/master/resource/app/app_new.apk",
+  "hash":"3a3266a273163eb0e0822f3766bb8440",
+  "patchInfo":{
+    "v100":{
+      "patchURL":"https://raw.githubusercontent.com/chaihuasong/htz-updater/master/resource/app/v1/diff.patch",
+      "tip":"test2",
+      "hash":"3a3266a273163eb0e0822f3766bb8440",
+      "size":43638
+    }
+  }
+}
